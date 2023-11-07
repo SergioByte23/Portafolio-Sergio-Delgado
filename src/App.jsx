@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <main>
-        ctmr
+        Hola jeje
       </main>
       
     </>
