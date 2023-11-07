@@ -1,0 +1,24 @@
+
+.nav__div{
+    top: 0;
+    list-style-type: none;
+    /* background-color: var(--background-header); */
+    background-color: transparent;
+    z-index: 2;
+}
+.div__ul{
+    list-style-type: inherit;
+    
+    font-size: 15px;
+    display: flex;
+    gap: 35px;
+    font-weight: var(--font-weight-regular);
+    height: 9vh;
+    justify-content: end;
+    align-items: center;
+    text-decoration: none;
+    
+}
+.ul__li--style{
+    margin-right: 53px;
+}
